@@ -1,0 +1,16 @@
+[package]
+name = "my_private_crate"
+version = "0.1.0"
+edition = "2021"
+private = true
+authors = ["Saikiran140"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/Saikiran140/my_private_crate"
+publish = ["github"]
+readme = "README.md"
+
+
+[dependencies]
+
+
+
