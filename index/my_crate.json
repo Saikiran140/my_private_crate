@@ -1,0 +1,9 @@
+{
+    "name": "my_crate",
+    "vers": "0.1.0",
+    "deps": [],
+    "cksum": "53ba46e16f6d253b1871add427be7b6088d99b3cfe03f952aded57a3c17f8c56",
+    "features": {},
+    "yanked": false,
+    "links": null
+}
